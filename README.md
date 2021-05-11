@@ -25,4 +25,3 @@ if_bridge(4) - extension for inspecting PPPoE frames by pfil(9)
  is possible.
 </code></pre>
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=hmatyschok&url=https://github.com/hmatyschok/MeshBSD&title=MeshBSD&language=&tags=github&category=software) Please feel free to support me anytime.
